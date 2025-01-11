@@ -19,11 +19,11 @@ The Item List Manager is a simple React application that allows users to manage 
 ### Installation
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/KumarSaiUggina/Krowd-React-Task.git
    ```
 2. Navigate to the project directory:
    ```
-   cd item-list-manager
+   cd Krowd-React-Task
    ```
 3. Install the dependencies:
    ```
